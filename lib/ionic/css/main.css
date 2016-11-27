@@ -1,0 +1,11 @@
+.button_width{
+    100%;
+}
+
+ion-item {
+    font-family: "Roboto" !important;
+}
+
+ion-view{
+    background-color: #eee;
+}
